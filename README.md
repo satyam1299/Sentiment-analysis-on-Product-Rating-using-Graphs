@@ -24,4 +24,5 @@ NumPy
 Pandas
 Matplotlib
 Seaborn
+
 Feel free to customize the code and adapt it to your specific product rating dataset for valuable sentiment insights.
